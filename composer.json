@@ -1,0 +1,13 @@
+{
+    "name": "dbmover/mysql-procedures",
+    "description": "Dbmover MySQL-specific procedure plugin overrides",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marijn Ophorst",
+            "email": "marijn@monomelodies.nl"
+        }
+    ],
+    "require": {}
+}
