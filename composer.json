@@ -9,5 +9,12 @@
             "email": "marijn@monomelodies.nl"
         }
     ],
-    "require": {}
+    "require": {
+        "dbmover/procedures": "^0.6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dbmover\\Mysql\\Procedures\\": "./src"
+        }
+    }
 }
